@@ -18,7 +18,7 @@ tagline:             IT & Book Story
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  IT를 공부하는 독서쟁이
+ 남들과 다르게 천천히 걷는 것만으로도 남들과 전혀 다른 삶이 된다
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -26,7 +26,7 @@ author:
   email:             rlagpqls123@naver.cpm
 
 # Fallback image and color
-image:               /assets/img/nap.jpg
+image:               /assets/img/background.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
