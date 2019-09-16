@@ -2,8 +2,8 @@
 layout: tag-blog
 title: Git
 slug: git
-category: devlog
+category: study
 menu: false
-order: 2
+order: 1
 header-img: "/img/git-logo.png"
 ---

@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Things
 slug: things
-category: review
+category: daily
 menu: false
 order: 1
 ---

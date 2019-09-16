@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Food
 slug: food
-category: review
+category: daily
 menu: false
-order: 2
+order: 1
 ---

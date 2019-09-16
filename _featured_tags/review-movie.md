@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Movie
 slug: movie
-category: review
+category: daily
 menu: false
-order: 2
+order: 1
 ---
