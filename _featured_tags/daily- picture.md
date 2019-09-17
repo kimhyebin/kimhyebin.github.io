@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Git
-slug: git
-category: study
+title: Picture
+slug: picture
+category: daily
 menu: false
 order: 1
 ---
