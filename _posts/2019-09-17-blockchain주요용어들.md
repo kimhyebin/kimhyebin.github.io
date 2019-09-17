@@ -6,9 +6,9 @@ title: BlockChain 주요 용어
 
 subtitle: BlockChain 들어가기 앞서 알아야 할 주요 용어들
 
-categories: blockchain
+categories: study
 
-tags: Words
+tags: blockchain
 
 ---
 
