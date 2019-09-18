@@ -13,11 +13,11 @@
 
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/hyebin.jpg
+    src:             /assets/img/hyebin.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/hyebin.jpg
-      2x:            /assets/img/hyebin.jpg
+      1x:            /assets/img/hyebin.jpeg
+      2x:            /assets/img/hyebin.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
