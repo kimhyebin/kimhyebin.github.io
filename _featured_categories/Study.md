@@ -4,7 +4,7 @@ title: Study
 slug: study
 menu: true
 submenu: true
-order: 6
+order: 1
 description: >
  IT 관련
 
