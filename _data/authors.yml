@@ -1,9 +1,9 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-isme2n:
-  name:              hyebin kim
-  email:              rlagpqls123@naver.com
+kimhyebin:
+name:              hyebin kim
+email:             rlagpqls123@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -11,11 +11,11 @@ isme2n:
  남들과 다르게 천천히 걷는 것만으로도 남들과 전혀 다른 삶이 된다
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/me.jpeg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/img/me.jpeg
-      2x:            /assets/img/me.jpeg
+  src:             /assets/img/me.jpeg
+  # srcset is optional, but can be used to provide higher res versions for retina displays
+  srcset:
+  1x:            /assets/img/me.jpeg
+  2x:            /assets/img/me.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -60,7 +60,7 @@ isme2n:
     rss:             https://kimhyebin.github.io/feed.xml
 
 # Another author
-mdo:
+  mdo:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
   about:             |
